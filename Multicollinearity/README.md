@@ -3,6 +3,6 @@
 
 
 
-Fixing Multicollinearity using VIF Technique
+- Fixing Multicollinearity using VIF Technique
 
-Multicollinearity in Linear Regression
+- Multicollinearity in Linear Regression
